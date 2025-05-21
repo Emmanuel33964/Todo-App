@@ -13,9 +13,4 @@ A simple and interactive Todo list application that lets you add, complete, and 
 - CSS
 - JavaScript
 
-## How to Run
-Open `index.html` in your browser.
-
-## Author
-Emmanuel Liru
 
